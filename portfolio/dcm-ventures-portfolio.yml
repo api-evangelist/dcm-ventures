@@ -1,0 +1,1541 @@
+generated: '2026-07-17'
+method: searched
+source: https://www.dcm.com/companies
+summary:
+  portfolio_total: 151
+  in_network: 21
+  api_providers: 12
+  missing: 130
+  stubs_created: 0
+companies:
+- name: Kuaishou
+  url: http://www.kuaishou.com/
+  description: Chinese short-video and live-streaming social platform
+  sector: consumer
+  stage: unknown
+  status: ipo
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kuaishou
+- name: Bill.com
+  url: http://bill.com/
+  description: Cloud-based financial operations and AP/AR automation for SMBs
+  sector: fintech
+  stage: unknown
+  status: ipo
+  source: https://www.dcm.com/companies
+  slug: bill
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: SoFi
+  url: https://www.sofi.com/
+  description: Digital personal finance and online banking platform
+  sector: fintech
+  stage: unknown
+  status: ipo
+  source: https://www.dcm.com/companies
+  slug: sofi
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: fuboTV
+  url: http://www.fubo.tv/
+  description: Live TV and sports streaming service
+  sector: consumer
+  stage: unknown
+  status: ipo
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: fubotv
+- name: Matterport
+  url: http://matterport.com/
+  description: 3D spatial data and digital twin platform
+  sector: frontier-tech
+  stage: unknown
+  status: ipo
+  source: https://www.dcm.com/companies
+  slug: costar
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Figure Technology Solutions
+  url: https://www.figure.com/
+  description: Blockchain-based lending and financial services
+  sector: fintech
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: figure-technology-solutions
+- name: GigaCloud Technology
+  url: https://www.gigacloudtech.com/
+  description: B2B cross-border e-commerce marketplace for large goods
+  sector: enterprise
+  stage: unknown
+  status: ipo
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: gigacloud-technology
+- name: Figure Markets
+  url: https://figuremarkets.com/
+  description: Crypto and securities exchange platform
+  sector: fintech
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: figure-markets
+- name: Cherry
+  url: https://withcherry.com/
+  description: Point-of-sale patient financing for medical and retail
+  sector: fintech
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cherry
+- name: EvenUp
+  url: https://www.evenuplaw.com/
+  description: AI-powered personal injury legal document platform
+  sector: enterprise
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  slug: evenup
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Picsart
+  url: http://picsart.com/
+  description: AI-powered photo and video editing platform
+  sector: consumer
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: picsart
+- name: Hims & Hers Health
+  url: https://www.hims.com/
+  description: Telehealth and consumer wellness platform
+  sector: consumer
+  stage: unknown
+  status: ipo
+  source: https://www.dcm.com/companies
+  slug: hims-and-hers
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Plenty
+  url: http://plenty.ag/
+  description: Vertical indoor farming technology
+  sector: frontier-tech
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: plenty
+- name: Life360
+  url: https://www.life360.com/
+  description: Family location sharing and safety app
+  sector: consumer
+  stage: unknown
+  status: ipo
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: life360
+- name: Blind
+  url: https://www.teamblind.com/
+  description: Anonymous professional community app
+  sector: consumer
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: blind
+- name: Coffee Meets Bagel
+  url: https://coffeemeetsbagel.com/
+  description: Online dating app
+  sector: consumer
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: coffee-meets-bagel
+- name: DocSend
+  url: https://www.docsend.com/
+  description: Secure document sharing and analytics
+  sector: enterprise
+  stage: unknown
+  status: acquired
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: docsend
+- name: Fortinet
+  url: http://www.fortinet.com/
+  description: Enterprise cybersecurity and network security
+  sector: enterprise
+  stage: unknown
+  status: ipo
+  source: https://www.dcm.com/companies
+  slug: fortinet
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: TikTok
+  url: https://www.tiktok.com/en/
+  description: Short-form video social platform
+  sector: consumer
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  slug: tiktok
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: BitTorrent
+  url: http://www.bittorrent.com/
+  description: Peer-to-peer file-sharing protocol and apps
+  sector: consumer
+  stage: unknown
+  status: acquired
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: bittorrent
+- name: Assured
+  url: https://www.assured.claims/
+  description: AI-driven insurance claims automation
+  sector: fintech
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: assured
+- name: Wrike
+  url: https://www.wrike.com/
+  description: Collaborative work management platform
+  sector: enterprise
+  stage: unknown
+  status: acquired
+  source: https://www.dcm.com/companies
+  slug: wrike
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Brigit
+  url: https://hellobrigit.com/
+  description: Personal finance and cash-advance app
+  sector: fintech
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: brigit
+- name: Careem
+  url: https://www.careem.com/
+  description: Ride-hailing and super-app in the Middle East
+  sector: consumer
+  stage: unknown
+  status: acquired
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: careem
+- name: Jackpocket
+  url: https://www.jackpocket.com/
+  description: Mobile lottery courier app
+  sector: consumer
+  stage: unknown
+  status: acquired
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: jackpocket
+- name: UJET
+  url: https://ujet.cx/
+  description: Cloud contact center and CX platform
+  sector: enterprise
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ujet
+- name: FloSports
+  url: http://www.flosports.tv/
+  description: Live sports streaming and media
+  sector: consumer
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: flosports
+- name: Opus
+  url: https://www.opus.pro/
+  description: AI video content creation platform
+  sector: frontier-tech
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: opus
+- name: Art19
+  url: https://art19.com/
+  description: Podcast hosting and monetization platform
+  sector: enterprise
+  stage: unknown
+  status: acquired
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: art19
+- name: Skylo
+  url: http://www.skylo.tech/
+  description: Satellite NB-IoT connectivity network
+  sector: frontier-tech
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: skylo
+- name: Fountain
+  url: http://www.fountain.com/
+  description: High-volume frontline hiring platform
+  sector: enterprise
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  slug: fountain-com
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: 58.com
+  url: http://bj.58.com/
+  description: Chinese classifieds and local services marketplace
+  sector: consumer
+  stage: unknown
+  status: ipo
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: 58com
+- name: VIPShop
+  url: http://www.vip.com/
+  description: Chinese online discount retailer
+  sector: consumer
+  stage: unknown
+  status: ipo
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: vipshop
+- name: Kakao
+  url: https://www.kakaocorp.com/
+  description: Korean mobile messaging and internet platform
+  sector: consumer
+  stage: unknown
+  status: ipo
+  source: https://www.dcm.com/companies
+  slug: kakao
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Eaze
+  url: https://www.eaze.com/
+  description: Cannabis delivery marketplace
+  sector: consumer
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: eaze
+- name: Symantec
+  url: http://www.symantec.com/products-solutions/families/?fid=encryption
+  description: Enterprise security and encryption software
+  sector: enterprise
+  stage: unknown
+  status: acquired
+  source: https://www.dcm.com/companies
+  slug: symantec
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Yaoshibang
+  url: https://www.ysbang.cn/index
+  description: Chinese B2B pharmaceutical e-commerce platform
+  sector: enterprise
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: yaoshibang
+- name: Mendel
+  url: https://mendel.ai/
+  description: AI clinical data abstraction for healthcare
+  sector: frontier-tech
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  slug: mendel-ai
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Modern Animal
+  url: https://www.modernanimal.com/
+  description: Membership-based veterinary care
+  sector: consumer
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: modern-animal
+- name: SigFig
+  url: https://www.sigfig.com/
+  description: Digital wealth management and robo-advising
+  sector: fintech
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sigfig
+- name: StreamNative
+  url: https://streamnative.io/
+  description: Cloud-native streaming and messaging (Apache Pulsar)
+  sector: enterprise
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  slug: streaming
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Button
+  url: http://www.usebutton.com/
+  description: Mobile commerce and affiliate infrastructure
+  sector: enterprise
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: button
+- name: OpenArt
+  url: https://openart.ai/
+  description: AI image generation platform
+  sector: frontier-tech
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: openart
+- name: Weekend Health (Found)
+  url: https://www.weekendhealth.com/
+  description: Weight care and telehealth platform
+  sector: consumer
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: weekend-health-found
+- name: Liangzi Zhige
+  url: http://www.liangzizhige.com/
+  description: Chinese technology company
+  sector: enterprise
+  stage: unknown
+  status: unknown
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: liangzi-zhige
+- name: Musely
+  url: https://www.musely.com/
+  description: Telehealth skincare and prescription platform
+  sector: consumer
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: musely
+- name: UCloud
+  url: http://www.ucloud.cn/
+  description: Chinese cloud computing provider
+  sector: enterprise
+  stage: unknown
+  status: ipo
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ucloud
+- name: Glints
+  url: https://glints.com/
+  description: Southeast Asian talent recruitment platform
+  sector: enterprise
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: glints
+- name: Provenance
+  url: https://provenance.io/
+  description: Sustainability and product transparency platform
+  sector: enterprise
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: provenance
+- name: UniUni
+  url: http://www.uniuni.com/
+  description: Last-mile parcel delivery network
+  sector: enterprise
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: uniuni
+- name: Lingopal
+  url: https://lingopal.ai/
+  description: AI real-time translation platform
+  sector: frontier-tech
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lingopal
+- name: Uxin
+  url: https://www.youxinpai.com/trade
+  description: Chinese used-car online marketplace
+  sector: consumer
+  stage: unknown
+  status: ipo
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: uxin
+- name: Pony.ai
+  url: http://www.pony.ai/
+  description: Autonomous driving technology
+  sector: frontier-tech
+  stage: unknown
+  status: ipo
+  source: https://www.dcm.com/companies
+  slug: pony-ai
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: DXY
+  url: http://www.dxy.cn/
+  description: Chinese online medical and healthcare community
+  sector: enterprise
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: dxy
+- name: Tuniu
+  url: http://www.tuniu.com/
+  description: Chinese online leisure travel company
+  sector: consumer
+  stage: unknown
+  status: ipo
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tuniu
+- name: Jubilee TV
+  url: https://getjubileetv.com/
+  description: Senior-focused connected TV and family app
+  sector: consumer
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: jubilee-tv
+- name: Sensors Data
+  url: https://www.sensorsdata.com/
+  description: Chinese product analytics platform
+  sector: enterprise
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sensors-data
+- name: YQN
+  url: https://www.yqn.com/
+  description: Cross-border digital logistics platform
+  sector: enterprise
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: yqn
+- name: Cyclone Robotics
+  url: https://www.cyclone-robotics.com/
+  description: Chinese RPA and intelligent automation
+  sector: enterprise
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cyclone-robotics
+- name: LingXi (Linc Well)
+  url: https://linc-well.com/en/
+  description: Direct-to-consumer health brands
+  sector: consumer
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lingxi-linc-well
+- name: newmo
+  url: https://newmo.me/
+  description: Japanese ride-hailing and mobility service
+  sector: consumer
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: newmo
+- name: Tantan
+  url: https://tantanapp.com/en
+  description: Chinese social and dating app
+  sector: consumer
+  stage: unknown
+  status: acquired
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tantan
+- name: Ekuaibao
+  url: https://www.ekuaibao.com/
+  description: Chinese enterprise expense management
+  sector: enterprise
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ekuaibao
+- name: Kezaihui
+  url: http://www.kezaihui.com/
+  description: Chinese e-commerce services
+  sector: enterprise
+  stage: unknown
+  status: unknown
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kezaihui
+- name: Akulaku
+  url: http://akulaku.com/
+  description: Southeast Asian digital banking and BNPL
+  sector: fintech
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: akulaku
+- name: 51Talk
+  url: https://51talk.ph/
+  description: Online English education platform
+  sector: consumer
+  stage: unknown
+  status: ipo
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: 51talk
+- name: Happy Elements
+  url: https://en.happyelements.com/
+  description: Social and mobile game developer
+  sector: consumer
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: happy-elements
+- name: DerbySoft
+  url: https://www.derbysoft.com/
+  description: Hospitality distribution technology
+  sector: enterprise
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: derbysoft
+- name: Explomar
+  url: http://www.explomar.com.cn/
+  description: Chinese technology company
+  sector: enterprise
+  stage: unknown
+  status: unknown
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: explomar
+- name: Fancy Technology
+  url: http://www.fancy.tech/
+  description: Chinese retail technology company
+  sector: enterprise
+  stage: unknown
+  status: unknown
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: fancy-technology
+- name: Full Truck Alliance
+  url: https://ir.fulltruckalliance.com/Company-Profile#
+  description: Chinese digital freight platform
+  sector: enterprise
+  stage: unknown
+  status: ipo
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: full-truck-alliance
+- name: Dangdang
+  url: http://dangdang.com/
+  description: Chinese e-commerce retailer
+  sector: consumer
+  stage: unknown
+  status: acquired
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: dangdang
+- name: Pharmaron
+  url: http://www.pharmaron.com/
+  description: Pharmaceutical R&D services provider
+  sector: enterprise
+  stage: unknown
+  status: ipo
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: pharmaron
+- name: Renren
+  url: http://www.renren.com/
+  description: Chinese social networking platform
+  sector: consumer
+  stage: unknown
+  status: ipo
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: renren
+- name: 51job
+  url: https://we.51job.com/pc/aboutus
+  description: Chinese online recruitment platform
+  sector: enterprise
+  stage: unknown
+  status: acquired
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: 51job
+- name: Aqrose Technology
+  url: http://www.aqrose.com/
+  description: Chinese machine-vision AI
+  sector: frontier-tech
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: aqrose-technology
+- name: Weshine
+  url: http://www.weshineapp.com/
+  description: Chinese content/education app
+  sector: consumer
+  stage: unknown
+  status: unknown
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: weshine
+- name: Wandoujia
+  url: http://www.wandoujia.com/
+  description: Chinese Android app store
+  sector: consumer
+  stage: unknown
+  status: acquired
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: wandoujia
+- name: Z-Trip
+  url: http://www.z-trip.cn/
+  description: Chinese travel technology
+  sector: consumer
+  stage: unknown
+  status: unknown
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: z-trip
+- name: BentoML
+  url: https://www.bentoml.com/
+  description: AI model serving and deployment platform
+  sector: frontier-tech
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  slug: bentoml
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Breathwrk
+  url: https://www.breathwrk.com/
+  description: Breathing exercise and wellness app
+  sector: consumer
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: breathwrk
+- name: Devv
+  url: https://devv.ai/
+  description: AI-powered developer search engine
+  sector: frontier-tech
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: devv
+- name: Discz
+  url: https://www.discz.com/
+  description: Music discovery social app
+  sector: consumer
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: discz
+- name: enechain
+  url: https://enechain.co.jp/en/about
+  description: Japanese energy trading marketplace
+  sector: enterprise
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: enechain
+- name: HireRight
+  url: http://www.hireright.com/
+  description: Background screening and verification
+  sector: enterprise
+  stage: unknown
+  status: ipo
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: hireright
+- name: imbee
+  url: https://www.imbee.io/
+  description: Business messaging platform
+  sector: enterprise
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: imbee
+- name: HorizonIQ
+  url: https://www.horizoniq.com/
+  description: Bare-metal and hybrid cloud infrastructure
+  sector: enterprise
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: horizoniq
+- name: LARQ
+  url: https://www.livelarq.com/
+  description: Self-cleaning water bottle brand
+  sector: consumer
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: larq
+- name: Lime
+  url: https://www.li.me/
+  description: Electric scooter and bike sharing
+  sector: consumer
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  slug: lime
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Maimai
+  url: https://maimai.cn/
+  description: Chinese professional networking platform
+  sector: consumer
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: maimai
+- name: Metafy
+  url: https://metafy.gg/
+  description: Gaming coaching marketplace
+  sector: consumer
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: metafy
+- name: Moove
+  url: https://www.moove.io/
+  description: Mobility fintech and vehicle financing
+  sector: fintech
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: moove
+- name: Pawp
+  url: https://www.pawp.com/
+  description: Pet telehealth and emergency fund
+  sector: consumer
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: pawp
+- name: PLAYSTUDIOS
+  url: http://playstudios.com/
+  description: Casual mobile games with real-world rewards
+  sector: consumer
+  stage: unknown
+  status: ipo
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: playstudios
+- name: RealScout
+  url: https://www.realscout.com/
+  description: Real estate search and agent tools
+  sector: enterprise
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: realscout
+- name: Revel Systems
+  url: http://revelsystems.com/
+  description: iPad point-of-sale platform
+  sector: enterprise
+  stage: unknown
+  status: acquired
+  source: https://www.dcm.com/companies
+  slug: revel-systems
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: SequoiaDB
+  url: http://www.sequoiadb.com/en/
+  description: Chinese distributed database
+  sector: enterprise
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sequoiadb
+- name: Stride Health
+  url: https://www.stridehealth.com/
+  description: Benefits platform for independent workers
+  sector: fintech
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: stride-health
+- name: Tapingo
+  url: http://www.tapingo.com/
+  description: Campus mobile food ordering
+  sector: consumer
+  stage: unknown
+  status: acquired
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tapingo
+- name: Theta Network
+  url: https://www.thetatoken.org/
+  description: Blockchain video delivery network
+  sector: frontier-tech
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  slug: theta-edge
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: TravelBank
+  url: https://travelbank.com/
+  description: Corporate travel and expense management
+  sector: enterprise
+  stage: unknown
+  status: acquired
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: travelbank
+- name: Urtopia
+  url: https://newurtopia.com/
+  description: Smart electric bike maker
+  sector: consumer
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: urtopia
+- name: Ustream
+  url: https://www.ibm.com/products/video-streaming
+  description: Live video streaming platform (acquired by IBM)
+  sector: enterprise
+  stage: unknown
+  status: acquired
+  source: https://www.dcm.com/companies
+  slug: ibm
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Vindicia
+  url: http://www.vindicia.com/
+  description: Subscription billing and recurring payments
+  sector: fintech
+  stage: unknown
+  status: acquired
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: vindicia
+- name: BrandCT
+  url: https://brandct.cn/
+  description: Chinese digital marketing technology
+  sector: enterprise
+  stage: unknown
+  status: unknown
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: brandct
+- name: 1 Mainstream
+  url: http://www.1mainstream.com/
+  description: Cloud TV app platform
+  sector: enterprise
+  stage: unknown
+  status: acquired
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: 1-mainstream
+- name: 99Bill
+  url: https://www.99bill.com/
+  description: Chinese online payment provider
+  sector: fintech
+  stage: unknown
+  status: acquired
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: 99bill
+- name: Amber Group
+  url: https://www.ambergroup.io/
+  description: Digital asset and crypto financial services
+  sector: fintech
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: amber-group
+- name: Baletu
+  url: http://baletu.com/
+  description: Chinese long-term apartment rental platform
+  sector: consumer
+  stage: unknown
+  status: unknown
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: baletu
+- name: Bitauto
+  url: https://www.bitauto.com/choose-c/
+  description: Chinese automotive internet services
+  sector: consumer
+  stage: unknown
+  status: acquired
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: bitauto
+- name: CADDi
+  url: https://us.caddi.com/
+  description: Manufacturing procurement and drawing data platform
+  sector: enterprise
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: caddi
+- name: Chia Network
+  url: https://chia.net/
+  description: Blockchain and digital currency platform
+  sector: frontier-tech
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: chia-network
+- name: Every.tv
+  url: https://corp.every.tv/
+  description: Japanese media/video company
+  sector: consumer
+  stage: unknown
+  status: unknown
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: everytv
+- name: FlowGPT
+  url: https://flowgpt.com/
+  description: AI prompt sharing community
+  sector: frontier-tech
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: flowgpt
+- name: Fond
+  url: https://fond.co/
+  description: Employee rewards and recognition platform
+  sector: enterprise
+  stage: unknown
+  status: acquired
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: fond
+- name: GAGO Group
+  url: https://www.gagogroup.cn/
+  description: Agricultural big-data and remote sensing
+  sector: frontier-tech
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: gago-group
+- name: Huaun
+  url: https://www.huaun.com/
+  description: Chinese technology company
+  sector: enterprise
+  stage: unknown
+  status: unknown
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: huaun
+- name: Influenxio
+  url: https://www.influenxio.com/en-US
+  description: Influencer marketing platform
+  sector: enterprise
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: influenxio
+- name: Tiebaobei
+  url: http://www.tiebaobei.com/
+  description: Chinese used construction equipment marketplace
+  sector: enterprise
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tiebaobei
+- name: LeapStack
+  url: https://www.leapstack.tech/
+  description: Chinese healthcare insurance analytics
+  sector: fintech
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: leapstack
+- name: Lighthouse
+  url: https://lighthouse.app/
+  description: AI meeting notes and productivity app
+  sector: frontier-tech
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lighthouse
+- name: Magic Moment
+  url: https://www.magicmoment.jp/
+  description: Japanese sales engagement platform
+  sector: enterprise
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: magic-moment
+- name: Xinhe Technology
+  url: https://xinhekeji.net/
+  description: Chinese technology company
+  sector: enterprise
+  stage: unknown
+  status: unknown
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: xinhe-technology
+- name: Mobileum
+  url: https://www.mobileum.com/
+  description: Telecom analytics and roaming solutions
+  sector: enterprise
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mobileum
+- name: MollyBox
+  url: https://www.mollybox.cn/
+  description: Chinese pet subscription box
+  sector: consumer
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mollybox
+- name: Nok Nok Labs
+  url: https://www.noknok.com/
+  description: Passwordless authentication technology
+  sector: enterprise
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: nok-nok-labs
+- name: Fenxiang Life
+  url: http://www.fenxianglife.com/
+  description: Chinese lifestyle e-commerce
+  sector: consumer
+  stage: unknown
+  status: unknown
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: fenxiang-life
+- name: Roomi
+  url: http://roomiapp.com/
+  description: Roommate finder marketplace
+  sector: consumer
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: roomi
+- name: Roost
+  url: https://getroost.com/
+  description: Real estate technology and deposit platform
+  sector: fintech
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: roost
+- name: Siren
+  url: https://siren.care/
+  description: Smart textiles for diabetic foot health
+  sector: frontier-tech
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: siren
+- name: SoundCommerce
+  url: https://soundcommerce.com/
+  description: Retail and commerce data platform
+  sector: enterprise
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: soundcommerce
+- name: Tempo
+  url: https://tempo.fit/
+  description: Connected home fitness system
+  sector: consumer
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  slug: tempo
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Tiamat
+  url: https://www.tiamat.com/
+  description: Chinese AI-generated content platform
+  sector: frontier-tech
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tiamat
+- name: TopXGun
+  url: http://www.topxgun.com/en/
+  description: Agricultural drone maker
+  sector: frontier-tech
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: topxgun
+- name: Tumblbug
+  url: https://tumblbug.com/
+  description: Korean creative crowdfunding platform
+  sector: consumer
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tumblbug
+- name: Udesk
+  url: http://www.udesk.cn/
+  description: Chinese customer service SaaS
+  sector: enterprise
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: udesk
+- name: Vendavo
+  url: http://www.vendavo.com/
+  description: B2B pricing and revenue optimization
+  sector: enterprise
+  stage: unknown
+  status: acquired
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: vendavo
+- name: WeCook
+  url: http://www.wecook.cn/
+  description: Chinese recipe and food content app
+  sector: consumer
+  stage: unknown
+  status: unknown
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: wecook
+- name: Stailer
+  url: https://stailer.jp/
+  description: Japanese retail e-commerce enablement platform
+  sector: enterprise
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: stailer
+- name: Boohee
+  url: http://www.boohee.com/
+  description: Chinese health and fitness app
+  sector: consumer
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: boohee
+- name: EVERSTEEL
+  url: https://eversteel.co.jp/
+  description: Japanese AI for steel scrap sorting
+  sector: frontier-tech
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: eversteel
+- name: EZR
+  url: https://www.ezrpro.com/
+  description: Chinese supply-chain SaaS
+  sector: enterprise
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ezr
+- name: Fxiaoke
+  url: http://www.fxiaoke.com/
+  description: Chinese CRM and enterprise collaboration
+  sector: enterprise
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: fxiaoke
+- name: freee
+  url: http://www.freee.co.jp/
+  description: Japanese cloud accounting software
+  sector: fintech
+  stage: unknown
+  status: ipo
+  source: https://www.dcm.com/companies
+  slug: freee
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: HERP
+  url: https://herp.co.jp/
+  description: Japanese recruitment management platform
+  sector: enterprise
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: herp
+- name: Huixiaoer
+  url: http://www.huixiaoer.com/
+  description: Chinese SMB services platform
+  sector: enterprise
+  stage: unknown
+  status: unknown
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: huixiaoer
+- name: Kuaidian Reading
+  url: https://www.kuaidianyuedu.com/
+  description: Chinese digital reading platform
+  sector: consumer
+  stage: unknown
+  status: unknown
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kuaidian-reading
+- name: Pitzi
+  url: https://pitzi.com.br/
+  description: Brazilian smartphone insurance
+  sector: fintech
+  stage: unknown
+  status: active
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: pitzi
+- name: Pokelabo
+  url: http://pokelabo.co.jp/
+  description: Japanese mobile game developer
+  sector: consumer
+  stage: unknown
+  status: acquired
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: pokelabo
+- name: Sansan
+  url: https://www.sansan.com/en/
+  description: Japanese cloud business card and contact management
+  sector: enterprise
+  stage: unknown
+  status: ipo
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sansan
+- name: VisasQ
+  url: https://corp.visasq.co.jp/en/
+  description: Japanese expert knowledge-sharing platform
+  sector: enterprise
+  stage: unknown
+  status: ipo
+  source: https://www.dcm.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: visasq

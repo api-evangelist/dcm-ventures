@@ -1,0 +1,80 @@
+aid: dcm-ventures
+name: DCM Ventures
+description: >-
+  DCM Ventures (formerly Doll Capital Management, and commonly known as DCM) is an early-stage venture
+  capital firm founded in 1996 by Dixon Doll, a former Accel partner, and David Chao, and headquartered
+  at 2420 Sand Hill Road in Menlo Park, California with additional offices in Beijing and Tokyo. DCM was
+  among the first Silicon Valley firms to build a cross-border, US-Asia investing practice, and typically
+  leads early-stage rounds with checks in the roughly $1M-$5M range, deploying capital into a small group
+  of category-defining companies each year rather than investing broadly. The firm's thesis has evolved
+  from its original focus on communications and semiconductors toward consumer internet and SaaS, and today
+  centers on vertical SaaS, fintech, cross-border innovation, and AI-native applications across the United
+  States, China, Japan, and Southeast Asia. As of 2025 DCM manages approximately $4.5 billion in assets and
+  reports 400+ portfolio companies, 35+ unicorns, and over $150 billion in aggregate market value, with
+  notable investments including SoFi, Bill.com, Kuaishou, Matterport, 51job, Careem, and Sansan.
+image: https://www.dcm.com/favicon.ico
+x-type: venture-capital
+x-category: Venture Capital
+created: '2026-07-17'
+modified: '2026-07-17'
+specificationVersion: '0.20'
+tags:
+  - Venture Capital
+  - Seed
+  - Series A
+  - Early Stage
+  - Vertical SaaS
+  - Fintech
+  - Consumer
+  - Enterprise
+  - Artificial Intelligence
+  - Cross-Border
+  - United States
+  - China
+  - Japan
+  - Asia
+apis: []
+common:
+  - type: Website
+    url: https://www.dcm.com/
+  - type: Portfolio
+    url: https://www.dcm.com/companies
+  - type: Portfolio
+    url: portfolio/dcm-ventures-portfolio.yml
+  - type: Team
+    url: https://www.dcm.com/team
+  - type: Team
+    url: team/dcm-ventures-team.yml
+  - type: InvestmentThesis
+    url: https://www.dcm.com/about
+  - type: Contact
+    url: https://www.dcm.com/contact
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/dcm
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/dcm/
+  - type: Twitter
+    url: https://twitter.com/dcm_vc
+  - type: Features
+    data:
+      - "Stage: Seed, Series A, Early Stage"
+      - "Typical check: ~$1M-$5M (leads early-stage rounds)"
+      - "Sectors: vertical SaaS, fintech, consumer internet, enterprise, cross-border, AI-native applications"
+      - "Geography: United States, China, Japan, Southeast Asia (US-Asia cross-border)"
+      - "AUM: ~$4.5B (as of 2025)"
+      - "Portfolio: 400+ companies, 35+ unicorns, $150B+ aggregate market value (self-reported)"
+      - "Founded: 1996"
+      - "HQ: 2420 Sand Hill Road, Menlo Park, California, USA (offices in Beijing and Tokyo)"
+    sources:
+      - https://www.dcm.com/about
+      - https://en.wikipedia.org/wiki/DCM_Ventures
+      - https://www.dcm.com/companies
+    updated: '2026-07-17'
+maintainers:
+  - FN: Kin Lane
+    email: info@apievangelist.com
+    url: https://apievangelist.com
+  - FN: APIs.json
+    url: http://apisjson.org
+  - FN: DCM Ventures
+    url: https://www.dcm.com/
