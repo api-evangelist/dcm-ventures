@@ -3,9 +3,9 @@ method: searched
 source: https://www.dcm.com/companies
 summary:
   portfolio_total: 151
-  in_network: 21
-  api_providers: 12
-  missing: 130
+  in_network: 151
+  api_providers: 19
+  missing: 0
   stubs_created: 0
 companies:
 - name: Kuaishou
@@ -15,9 +15,10 @@ companies:
   stage: unknown
   status: ipo
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kuaishou
+  slug: kuaishou
+  matched_by: domain
 - name: Bill.com
   url: http://bill.com/
   description: Cloud-based financial operations and AP/AR automation for SMBs
@@ -47,9 +48,10 @@ companies:
   stage: unknown
   status: ipo
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: fubotv
+  slug: fubotv
+  matched_by: domain
 - name: Matterport
   url: http://matterport.com/
   description: 3D spatial data and digital twin platform
@@ -57,7 +59,7 @@ companies:
   stage: unknown
   status: ipo
   source: https://www.dcm.com/companies
-  slug: costar
+  slug: matterport
   in_network: true
   is_api_provider: false
   matched_by: domain
@@ -68,9 +70,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: figure-technology-solutions
+  in_network: true
+  is_api_provider: true
+  slug: figure
+  matched_by: domain
 - name: GigaCloud Technology
   url: https://www.gigacloudtech.com/
   description: B2B cross-border e-commerce marketplace for large goods
@@ -78,9 +81,10 @@ companies:
   stage: unknown
   status: ipo
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: gigacloud-technology
+  slug: gigacloud-technology
+  matched_by: domain
 - name: Figure Markets
   url: https://figuremarkets.com/
   description: Crypto and securities exchange platform
@@ -88,9 +92,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: figure-markets
+  slug: figure-markets
+  matched_by: domain
 - name: Cherry
   url: https://withcherry.com/
   description: Point-of-sale patient financing for medical and retail
@@ -98,9 +103,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cherry
+  slug: cherry
+  matched_by: domain
 - name: EvenUp
   url: https://www.evenuplaw.com/
   description: AI-powered personal injury legal document platform
@@ -119,9 +125,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: picsart
+  in_network: true
+  is_api_provider: true
+  slug: picsart
+  matched_by: domain
 - name: Hims & Hers Health
   url: https://www.hims.com/
   description: Telehealth and consumer wellness platform
@@ -140,9 +147,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: plenty
+  slug: plenty
+  matched_by: domain
 - name: Life360
   url: https://www.life360.com/
   description: Family location sharing and safety app
@@ -150,9 +158,10 @@ companies:
   stage: unknown
   status: ipo
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: life360
+  slug: life360
+  matched_by: domain
 - name: Blind
   url: https://www.teamblind.com/
   description: Anonymous professional community app
@@ -160,9 +169,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: blind
+  slug: blind
+  matched_by: domain
 - name: Coffee Meets Bagel
   url: https://coffeemeetsbagel.com/
   description: Online dating app
@@ -170,9 +180,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: coffee-meets-bagel
+  slug: coffee-meets-bagel
+  matched_by: domain
 - name: DocSend
   url: https://www.docsend.com/
   description: Secure document sharing and analytics
@@ -180,9 +191,10 @@ companies:
   stage: unknown
   status: acquired
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: docsend
+  slug: docsend
+  matched_by: domain
 - name: Fortinet
   url: http://www.fortinet.com/
   description: Enterprise cybersecurity and network security
@@ -212,9 +224,10 @@ companies:
   stage: unknown
   status: acquired
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bittorrent
+  slug: bittorrent
+  matched_by: domain
 - name: Assured
   url: https://www.assured.claims/
   description: AI-driven insurance claims automation
@@ -222,9 +235,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: assured
+  slug: assured
+  matched_by: name-slug
 - name: Wrike
   url: https://www.wrike.com/
   description: Collaborative work management platform
@@ -243,9 +257,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: brigit
+  slug: brigit
+  matched_by: domain
 - name: Careem
   url: https://www.careem.com/
   description: Ride-hailing and super-app in the Middle East
@@ -253,9 +268,10 @@ companies:
   stage: unknown
   status: acquired
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: careem
+  slug: careem
+  matched_by: domain
 - name: Jackpocket
   url: https://www.jackpocket.com/
   description: Mobile lottery courier app
@@ -263,9 +279,10 @@ companies:
   stage: unknown
   status: acquired
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: jackpocket
+  slug: jackpocket
+  matched_by: domain
 - name: UJET
   url: https://ujet.cx/
   description: Cloud contact center and CX platform
@@ -273,9 +290,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ujet
+  slug: ujet
+  matched_by: domain
 - name: FloSports
   url: http://www.flosports.tv/
   description: Live sports streaming and media
@@ -283,9 +301,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: flosports
+  slug: flosports
+  matched_by: domain
 - name: Opus
   url: https://www.opus.pro/
   description: AI video content creation platform
@@ -293,9 +312,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: opus
+  in_network: true
+  is_api_provider: true
+  slug: opus
+  matched_by: domain
 - name: Art19
   url: https://art19.com/
   description: Podcast hosting and monetization platform
@@ -303,9 +323,10 @@ companies:
   stage: unknown
   status: acquired
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: art19
+  slug: art19
+  matched_by: domain
 - name: Skylo
   url: http://www.skylo.tech/
   description: Satellite NB-IoT connectivity network
@@ -313,9 +334,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: skylo
+  slug: skylo
+  matched_by: domain
 - name: Fountain
   url: http://www.fountain.com/
   description: High-volume frontline hiring platform
@@ -323,9 +345,9 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  slug: fountain-com
+  slug: fountain
   in_network: true
-  is_api_provider: true
+  is_api_provider: false
   matched_by: domain
 - name: 58.com
   url: http://bj.58.com/
@@ -334,9 +356,10 @@ companies:
   stage: unknown
   status: ipo
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: 58com
+  slug: 58com
+  matched_by: domain
 - name: VIPShop
   url: http://www.vip.com/
   description: Chinese online discount retailer
@@ -344,9 +367,10 @@ companies:
   stage: unknown
   status: ipo
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: vipshop
+  slug: vipshop
+  matched_by: domain
 - name: Kakao
   url: https://www.kakaocorp.com/
   description: Korean mobile messaging and internet platform
@@ -365,9 +389,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: eaze
+  slug: eaze
+  matched_by: domain
 - name: Symantec
   url: http://www.symantec.com/products-solutions/families/?fid=encryption
   description: Enterprise security and encryption software
@@ -386,9 +411,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: yaoshibang
+  slug: yaoshibang
+  matched_by: domain
 - name: Mendel
   url: https://mendel.ai/
   description: AI clinical data abstraction for healthcare
@@ -407,9 +433,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: modern-animal
+  slug: modern-animal
+  matched_by: domain
 - name: SigFig
   url: https://www.sigfig.com/
   description: Digital wealth management and robo-advising
@@ -417,9 +444,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sigfig
+  slug: sigfig
+  matched_by: domain
 - name: StreamNative
   url: https://streamnative.io/
   description: Cloud-native streaming and messaging (Apache Pulsar)
@@ -438,9 +466,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: button
+  in_network: true
+  is_api_provider: true
+  slug: usebutton
+  matched_by: domain
 - name: OpenArt
   url: https://openart.ai/
   description: AI image generation platform
@@ -448,9 +477,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: openart
+  slug: openart
+  matched_by: domain
 - name: Weekend Health (Found)
   url: https://www.weekendhealth.com/
   description: Weight care and telehealth platform
@@ -458,9 +488,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: weekend-health-found
+  slug: weekend-health-found
+  matched_by: domain
 - name: Liangzi Zhige
   url: http://www.liangzizhige.com/
   description: Chinese technology company
@@ -468,9 +499,10 @@ companies:
   stage: unknown
   status: unknown
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: liangzi-zhige
+  slug: liangzizhige
+  matched_by: domain
 - name: Musely
   url: https://www.musely.com/
   description: Telehealth skincare and prescription platform
@@ -478,9 +510,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: musely
+  slug: musely
+  matched_by: domain
 - name: UCloud
   url: http://www.ucloud.cn/
   description: Chinese cloud computing provider
@@ -488,9 +521,10 @@ companies:
   stage: unknown
   status: ipo
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ucloud
+  slug: ucloud
+  matched_by: domain
 - name: Glints
   url: https://glints.com/
   description: Southeast Asian talent recruitment platform
@@ -498,9 +532,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: glints
+  slug: glints
+  matched_by: domain
 - name: Provenance
   url: https://provenance.io/
   description: Sustainability and product transparency platform
@@ -508,9 +543,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: provenance
+  slug: provenance
+  matched_by: domain
 - name: UniUni
   url: http://www.uniuni.com/
   description: Last-mile parcel delivery network
@@ -518,9 +554,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: uniuni
+  in_network: true
+  is_api_provider: true
+  slug: uniuni
+  matched_by: domain
 - name: Lingopal
   url: https://lingopal.ai/
   description: AI real-time translation platform
@@ -528,9 +565,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: lingopal
+  in_network: true
+  is_api_provider: true
+  slug: lingopal
+  matched_by: domain
 - name: Uxin
   url: https://www.youxinpai.com/trade
   description: Chinese used-car online marketplace
@@ -538,9 +576,10 @@ companies:
   stage: unknown
   status: ipo
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: uxin
+  slug: uxin
+  matched_by: domain
 - name: Pony.ai
   url: http://www.pony.ai/
   description: Autonomous driving technology
@@ -559,9 +598,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: dxy
+  slug: dxy
+  matched_by: domain
 - name: Tuniu
   url: http://www.tuniu.com/
   description: Chinese online leisure travel company
@@ -569,9 +609,10 @@ companies:
   stage: unknown
   status: ipo
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tuniu
+  slug: tuniu
+  matched_by: domain
 - name: Jubilee TV
   url: https://getjubileetv.com/
   description: Senior-focused connected TV and family app
@@ -579,9 +620,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: jubilee-tv
+  slug: jubilee-tv
+  matched_by: domain
 - name: Sensors Data
   url: https://www.sensorsdata.com/
   description: Chinese product analytics platform
@@ -589,9 +631,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sensors-data
+  slug: sensors-data
+  matched_by: domain
 - name: YQN
   url: https://www.yqn.com/
   description: Cross-border digital logistics platform
@@ -599,9 +642,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: yqn
+  slug: yqn
+  matched_by: domain
 - name: Cyclone Robotics
   url: https://www.cyclone-robotics.com/
   description: Chinese RPA and intelligent automation
@@ -609,9 +653,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cyclone-robotics
+  slug: cyclone-robotics
+  matched_by: domain
 - name: LingXi (Linc Well)
   url: https://linc-well.com/en/
   description: Direct-to-consumer health brands
@@ -619,9 +664,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: lingxi-linc-well
+  slug: lingxi-linc-well
+  matched_by: domain
 - name: newmo
   url: https://newmo.me/
   description: Japanese ride-hailing and mobility service
@@ -629,9 +675,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: newmo
+  slug: newmo
+  matched_by: domain
 - name: Tantan
   url: https://tantanapp.com/en
   description: Chinese social and dating app
@@ -639,9 +686,10 @@ companies:
   stage: unknown
   status: acquired
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tantan
+  slug: tantan
+  matched_by: domain
 - name: Ekuaibao
   url: https://www.ekuaibao.com/
   description: Chinese enterprise expense management
@@ -649,9 +697,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ekuaibao
+  slug: ekuaibao
+  matched_by: domain
 - name: Kezaihui
   url: http://www.kezaihui.com/
   description: Chinese e-commerce services
@@ -659,9 +708,10 @@ companies:
   stage: unknown
   status: unknown
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kezaihui
+  slug: kezaihui
+  matched_by: domain
 - name: Akulaku
   url: http://akulaku.com/
   description: Southeast Asian digital banking and BNPL
@@ -669,9 +719,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: akulaku
+  slug: akulaku
+  matched_by: domain
 - name: 51Talk
   url: https://51talk.ph/
   description: Online English education platform
@@ -679,9 +730,10 @@ companies:
   stage: unknown
   status: ipo
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: 51talk
+  slug: 51talk
+  matched_by: domain
 - name: Happy Elements
   url: https://en.happyelements.com/
   description: Social and mobile game developer
@@ -689,9 +741,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: happy-elements
+  slug: happy-elements
+  matched_by: domain
 - name: DerbySoft
   url: https://www.derbysoft.com/
   description: Hospitality distribution technology
@@ -699,9 +752,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: derbysoft
+  slug: derbysoft
+  matched_by: domain
 - name: Explomar
   url: http://www.explomar.com.cn/
   description: Chinese technology company
@@ -709,9 +763,10 @@ companies:
   stage: unknown
   status: unknown
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: explomar
+  slug: explomar
+  matched_by: name-slug
 - name: Fancy Technology
   url: http://www.fancy.tech/
   description: Chinese retail technology company
@@ -719,9 +774,10 @@ companies:
   stage: unknown
   status: unknown
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: fancy-technology
+  slug: fancy-technology
+  matched_by: domain
 - name: Full Truck Alliance
   url: https://ir.fulltruckalliance.com/Company-Profile#
   description: Chinese digital freight platform
@@ -729,9 +785,10 @@ companies:
   stage: unknown
   status: ipo
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: full-truck-alliance
+  slug: full-truck-alliance
+  matched_by: domain
 - name: Dangdang
   url: http://dangdang.com/
   description: Chinese e-commerce retailer
@@ -739,9 +796,10 @@ companies:
   stage: unknown
   status: acquired
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: dangdang
+  slug: dangdang
+  matched_by: domain
 - name: Pharmaron
   url: http://www.pharmaron.com/
   description: Pharmaceutical R&D services provider
@@ -749,9 +807,10 @@ companies:
   stage: unknown
   status: ipo
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: pharmaron
+  slug: pharmaron
+  matched_by: domain
 - name: Renren
   url: http://www.renren.com/
   description: Chinese social networking platform
@@ -759,9 +818,10 @@ companies:
   stage: unknown
   status: ipo
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: renren
+  slug: renren
+  matched_by: domain
 - name: 51job
   url: https://we.51job.com/pc/aboutus
   description: Chinese online recruitment platform
@@ -769,9 +829,10 @@ companies:
   stage: unknown
   status: acquired
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: 51job
+  slug: 51job
+  matched_by: domain
 - name: Aqrose Technology
   url: http://www.aqrose.com/
   description: Chinese machine-vision AI
@@ -779,9 +840,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: aqrose-technology
+  slug: aqrose-technology
+  matched_by: domain
 - name: Weshine
   url: http://www.weshineapp.com/
   description: Chinese content/education app
@@ -789,9 +851,10 @@ companies:
   stage: unknown
   status: unknown
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: weshine
+  slug: weshine
+  matched_by: domain
 - name: Wandoujia
   url: http://www.wandoujia.com/
   description: Chinese Android app store
@@ -799,9 +862,10 @@ companies:
   stage: unknown
   status: acquired
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: wandoujia
+  slug: wandoujia
+  matched_by: domain
 - name: Z-Trip
   url: http://www.z-trip.cn/
   description: Chinese travel technology
@@ -809,9 +873,10 @@ companies:
   stage: unknown
   status: unknown
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: z-trip
+  slug: z-trip
+  matched_by: domain
 - name: BentoML
   url: https://www.bentoml.com/
   description: AI model serving and deployment platform
@@ -830,9 +895,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: breathwrk
+  slug: breathwrk
+  matched_by: domain
 - name: Devv
   url: https://devv.ai/
   description: AI-powered developer search engine
@@ -840,9 +906,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: devv
+  slug: devv
+  matched_by: domain
 - name: Discz
   url: https://www.discz.com/
   description: Music discovery social app
@@ -850,9 +917,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: discz
+  slug: discz
+  matched_by: domain
 - name: enechain
   url: https://enechain.co.jp/en/about
   description: Japanese energy trading marketplace
@@ -860,9 +928,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: enechain
+  slug: enechain
+  matched_by: domain
 - name: HireRight
   url: http://www.hireright.com/
   description: Background screening and verification
@@ -870,9 +939,10 @@ companies:
   stage: unknown
   status: ipo
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: hireright
+  slug: hireright
+  matched_by: domain
 - name: imbee
   url: https://www.imbee.io/
   description: Business messaging platform
@@ -880,9 +950,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: imbee
+  slug: imbee
+  matched_by: domain
 - name: HorizonIQ
   url: https://www.horizoniq.com/
   description: Bare-metal and hybrid cloud infrastructure
@@ -890,9 +961,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: horizoniq
+  in_network: true
+  is_api_provider: true
+  slug: horizoniq
+  matched_by: domain
 - name: LARQ
   url: https://www.livelarq.com/
   description: Self-cleaning water bottle brand
@@ -900,9 +972,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: larq
+  slug: larq
+  matched_by: domain
 - name: Lime
   url: https://www.li.me/
   description: Electric scooter and bike sharing
@@ -921,9 +994,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: maimai
+  slug: maimai
+  matched_by: domain
 - name: Metafy
   url: https://metafy.gg/
   description: Gaming coaching marketplace
@@ -931,9 +1005,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: metafy
+  slug: metafy
+  matched_by: domain
 - name: Moove
   url: https://www.moove.io/
   description: Mobility fintech and vehicle financing
@@ -941,9 +1016,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: moove
+  slug: moove
+  matched_by: domain
 - name: Pawp
   url: https://www.pawp.com/
   description: Pet telehealth and emergency fund
@@ -951,9 +1027,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: pawp
+  slug: pawp
+  matched_by: domain
 - name: PLAYSTUDIOS
   url: http://playstudios.com/
   description: Casual mobile games with real-world rewards
@@ -961,9 +1038,10 @@ companies:
   stage: unknown
   status: ipo
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: playstudios
+  slug: playstudios
+  matched_by: domain
 - name: RealScout
   url: https://www.realscout.com/
   description: Real estate search and agent tools
@@ -971,9 +1049,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: realscout
+  slug: realscout
+  matched_by: domain
 - name: Revel Systems
   url: http://revelsystems.com/
   description: iPad point-of-sale platform
@@ -992,9 +1071,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sequoiadb
+  slug: sequoiadb
+  matched_by: domain
 - name: Stride Health
   url: https://www.stridehealth.com/
   description: Benefits platform for independent workers
@@ -1002,9 +1082,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: stride-health
+  slug: stride-health
+  matched_by: domain
 - name: Tapingo
   url: http://www.tapingo.com/
   description: Campus mobile food ordering
@@ -1012,9 +1093,10 @@ companies:
   stage: unknown
   status: acquired
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tapingo
+  slug: tapingo
+  matched_by: domain
 - name: Theta Network
   url: https://www.thetatoken.org/
   description: Blockchain video delivery network
@@ -1033,9 +1115,10 @@ companies:
   stage: unknown
   status: acquired
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: travelbank
+  slug: travelbank
+  matched_by: domain
 - name: Urtopia
   url: https://newurtopia.com/
   description: Smart electric bike maker
@@ -1043,9 +1126,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: urtopia
+  slug: urtopia
+  matched_by: domain
 - name: Ustream
   url: https://www.ibm.com/products/video-streaming
   description: Live video streaming platform (acquired by IBM)
@@ -1064,9 +1148,10 @@ companies:
   stage: unknown
   status: acquired
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: vindicia
+  slug: vindicia
+  matched_by: domain
 - name: BrandCT
   url: https://brandct.cn/
   description: Chinese digital marketing technology
@@ -1074,9 +1159,10 @@ companies:
   stage: unknown
   status: unknown
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: brandct
+  slug: brandct
+  matched_by: name-slug
 - name: 1 Mainstream
   url: http://www.1mainstream.com/
   description: Cloud TV app platform
@@ -1084,9 +1170,10 @@ companies:
   stage: unknown
   status: acquired
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: 1-mainstream
+  slug: 1-mainstream
+  matched_by: domain
 - name: 99Bill
   url: https://www.99bill.com/
   description: Chinese online payment provider
@@ -1094,9 +1181,10 @@ companies:
   stage: unknown
   status: acquired
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: 99bill
+  slug: 99bill
+  matched_by: domain
 - name: Amber Group
   url: https://www.ambergroup.io/
   description: Digital asset and crypto financial services
@@ -1104,9 +1192,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: amber-group
+  slug: amber-group
+  matched_by: domain
 - name: Baletu
   url: http://baletu.com/
   description: Chinese long-term apartment rental platform
@@ -1114,9 +1203,10 @@ companies:
   stage: unknown
   status: unknown
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: baletu
+  slug: baletu
+  matched_by: domain
 - name: Bitauto
   url: https://www.bitauto.com/choose-c/
   description: Chinese automotive internet services
@@ -1124,9 +1214,10 @@ companies:
   stage: unknown
   status: acquired
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bitauto
+  slug: bitauto
+  matched_by: domain
 - name: CADDi
   url: https://us.caddi.com/
   description: Manufacturing procurement and drawing data platform
@@ -1134,9 +1225,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: caddi
+  slug: caddi
+  matched_by: domain
 - name: Chia Network
   url: https://chia.net/
   description: Blockchain and digital currency platform
@@ -1144,9 +1236,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: chia-network
+  slug: chia
+  matched_by: domain
 - name: Every.tv
   url: https://corp.every.tv/
   description: Japanese media/video company
@@ -1154,9 +1247,10 @@ companies:
   stage: unknown
   status: unknown
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: everytv
+  slug: everytv
+  matched_by: domain
 - name: FlowGPT
   url: https://flowgpt.com/
   description: AI prompt sharing community
@@ -1164,9 +1258,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: flowgpt
+  slug: flowgpt
+  matched_by: domain
 - name: Fond
   url: https://fond.co/
   description: Employee rewards and recognition platform
@@ -1174,9 +1269,10 @@ companies:
   stage: unknown
   status: acquired
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: fond
+  slug: fond
+  matched_by: domain
 - name: GAGO Group
   url: https://www.gagogroup.cn/
   description: Agricultural big-data and remote sensing
@@ -1184,9 +1280,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: gago-group
+  slug: gago-group
+  matched_by: domain
 - name: Huaun
   url: https://www.huaun.com/
   description: Chinese technology company
@@ -1194,9 +1291,10 @@ companies:
   stage: unknown
   status: unknown
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: huaun
+  slug: huaun
+  matched_by: domain
 - name: Influenxio
   url: https://www.influenxio.com/en-US
   description: Influencer marketing platform
@@ -1204,9 +1302,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: influenxio
+  slug: influenxio
+  matched_by: domain
 - name: Tiebaobei
   url: http://www.tiebaobei.com/
   description: Chinese used construction equipment marketplace
@@ -1214,9 +1313,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tiebaobei
+  slug: tiebaobei
+  matched_by: domain
 - name: LeapStack
   url: https://www.leapstack.tech/
   description: Chinese healthcare insurance analytics
@@ -1224,9 +1324,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: leapstack
+  slug: leapstack
+  matched_by: domain
 - name: Lighthouse
   url: https://lighthouse.app/
   description: AI meeting notes and productivity app
@@ -1234,9 +1335,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: lighthouse
+  slug: lighthouse
+  matched_by: name-slug
 - name: Magic Moment
   url: https://www.magicmoment.jp/
   description: Japanese sales engagement platform
@@ -1244,9 +1346,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: magic-moment
+  slug: magic-moment
+  matched_by: domain
 - name: Xinhe Technology
   url: https://xinhekeji.net/
   description: Chinese technology company
@@ -1254,9 +1357,10 @@ companies:
   stage: unknown
   status: unknown
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: xinhe-technology
+  slug: xinhe-technology
+  matched_by: domain
 - name: Mobileum
   url: https://www.mobileum.com/
   description: Telecom analytics and roaming solutions
@@ -1264,9 +1368,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: mobileum
+  slug: mobileum
+  matched_by: domain
 - name: MollyBox
   url: https://www.mollybox.cn/
   description: Chinese pet subscription box
@@ -1274,9 +1379,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: mollybox
+  in_network: true
+  is_api_provider: true
+  slug: mollybox
+  matched_by: domain
 - name: Nok Nok Labs
   url: https://www.noknok.com/
   description: Passwordless authentication technology
@@ -1284,9 +1390,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: nok-nok-labs
+  slug: nok-nok-labs
+  matched_by: domain
 - name: Fenxiang Life
   url: http://www.fenxianglife.com/
   description: Chinese lifestyle e-commerce
@@ -1294,9 +1401,10 @@ companies:
   stage: unknown
   status: unknown
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: fenxiang-life
+  slug: fenxiang-life
+  matched_by: domain
 - name: Roomi
   url: http://roomiapp.com/
   description: Roommate finder marketplace
@@ -1304,9 +1412,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: roomi
+  slug: roomi
+  matched_by: domain
 - name: Roost
   url: https://getroost.com/
   description: Real estate technology and deposit platform
@@ -1314,9 +1423,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: roost
+  slug: roost
+  matched_by: domain
 - name: Siren
   url: https://siren.care/
   description: Smart textiles for diabetic foot health
@@ -1324,9 +1434,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: siren
+  slug: siren
+  matched_by: domain
 - name: SoundCommerce
   url: https://soundcommerce.com/
   description: Retail and commerce data platform
@@ -1334,9 +1445,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: soundcommerce
+  slug: soundcommerce
+  matched_by: name-slug
 - name: Tempo
   url: https://tempo.fit/
   description: Connected home fitness system
@@ -1355,9 +1467,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tiamat
+  slug: tiamat
+  matched_by: domain
 - name: TopXGun
   url: http://www.topxgun.com/en/
   description: Agricultural drone maker
@@ -1365,9 +1478,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: topxgun
+  slug: topxgun
+  matched_by: domain
 - name: Tumblbug
   url: https://tumblbug.com/
   description: Korean creative crowdfunding platform
@@ -1375,9 +1489,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tumblbug
+  slug: tumblbug
+  matched_by: domain
 - name: Udesk
   url: http://www.udesk.cn/
   description: Chinese customer service SaaS
@@ -1385,9 +1500,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: udesk
+  slug: udesk
+  matched_by: domain
 - name: Vendavo
   url: http://www.vendavo.com/
   description: B2B pricing and revenue optimization
@@ -1395,9 +1511,10 @@ companies:
   stage: unknown
   status: acquired
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: vendavo
+  slug: vendavo
+  matched_by: domain
 - name: WeCook
   url: http://www.wecook.cn/
   description: Chinese recipe and food content app
@@ -1405,9 +1522,10 @@ companies:
   stage: unknown
   status: unknown
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: wecook
+  slug: wecook
+  matched_by: domain
 - name: Stailer
   url: https://stailer.jp/
   description: Japanese retail e-commerce enablement platform
@@ -1415,9 +1533,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: stailer
+  slug: stailer
+  matched_by: domain
 - name: Boohee
   url: http://www.boohee.com/
   description: Chinese health and fitness app
@@ -1425,9 +1544,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: boohee
+  slug: boohee
+  matched_by: domain
 - name: EVERSTEEL
   url: https://eversteel.co.jp/
   description: Japanese AI for steel scrap sorting
@@ -1435,9 +1555,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: eversteel
+  slug: eversteel
+  matched_by: domain
 - name: EZR
   url: https://www.ezrpro.com/
   description: Chinese supply-chain SaaS
@@ -1445,9 +1566,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ezr
+  slug: ezr
+  matched_by: domain
 - name: Fxiaoke
   url: http://www.fxiaoke.com/
   description: Chinese CRM and enterprise collaboration
@@ -1455,9 +1577,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: fxiaoke
+  slug: fxiaoke
+  matched_by: domain
 - name: freee
   url: http://www.freee.co.jp/
   description: Japanese cloud accounting software
@@ -1476,9 +1599,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: herp
+  slug: herp
+  matched_by: domain
 - name: Huixiaoer
   url: http://www.huixiaoer.com/
   description: Chinese SMB services platform
@@ -1486,9 +1610,10 @@ companies:
   stage: unknown
   status: unknown
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: huixiaoer
+  slug: huixiaoer
+  matched_by: domain
 - name: Kuaidian Reading
   url: https://www.kuaidianyuedu.com/
   description: Chinese digital reading platform
@@ -1496,9 +1621,10 @@ companies:
   stage: unknown
   status: unknown
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kuaidian-reading
+  slug: kuaidian-reading
+  matched_by: domain
 - name: Pitzi
   url: https://pitzi.com.br/
   description: Brazilian smartphone insurance
@@ -1506,9 +1632,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: pitzi
+  slug: pitzi
+  matched_by: domain
 - name: Pokelabo
   url: http://pokelabo.co.jp/
   description: Japanese mobile game developer
@@ -1516,9 +1643,10 @@ companies:
   stage: unknown
   status: acquired
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: pokelabo
+  slug: pokelabo
+  matched_by: domain
 - name: Sansan
   url: https://www.sansan.com/en/
   description: Japanese cloud business card and contact management
@@ -1526,9 +1654,10 @@ companies:
   stage: unknown
   status: ipo
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sansan
+  slug: sansan
+  matched_by: domain
 - name: VisasQ
   url: https://corp.visasq.co.jp/en/
   description: Japanese expert knowledge-sharing platform
@@ -1536,6 +1665,7 @@ companies:
   stage: unknown
   status: ipo
   source: https://www.dcm.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: visasq
+  slug: visasq
+  matched_by: domain
