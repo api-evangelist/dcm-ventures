@@ -12,6 +12,17 @@ description: >-
   States, China, Japan, and Southeast Asia. As of 2025 DCM manages approximately $4.5 billion in assets and
   reports 400+ portfolio companies, 35+ unicorns, and over $150 billion in aggregate market value, with
   notable investments including SoFi, Bill.com, Kuaishou, Matterport, 51job, Careem, and Sansan.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
